@@ -39,8 +39,9 @@
     "package.json"
   ],
   "dependencies": {
+    "firebase": "3.x.x",
     "jsdom": ">3",
-    "firebase": "3.x.x"
+    "sharedb": "^1.0.0-beta.7"
   },
   "devDependencies": {
     "coveralls": "^2.11.2",
