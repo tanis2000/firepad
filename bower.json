@@ -39,7 +39,8 @@
   ],
   "dependencies": {
     "jsdom": "3.x",
-    "firebase": "3.x.x"
+    "firebase": "3.x.x",
+    "sharedb": "^0.11.37"
   },
   "devDependencies": {
     "jasmine-core": "2.3.4",

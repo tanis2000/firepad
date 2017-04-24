@@ -35,6 +35,7 @@ module.exports = function(config) {
       "../lib/annotation-list.js",
       "../lib/cursor.js",
       "../lib/firebase-adapter.js",
+      "../lib/sharedb-adapter.js",
       "../lib/rich-text-toolbar.js",
       "../lib/wrapped-operation.js",
       "../lib/undo-manager.js",

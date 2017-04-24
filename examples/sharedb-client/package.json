@@ -1,0 +1,12 @@
+{
+  "name": "sharedb-client",
+  "version": "0.1.0",
+  "description": "A sample ShareDB client",
+  "main": "index.js",
+  "scripts": {
+    "build": "mkdir -p static/ && ./node_modules/.bin/browserify index.js -o static/bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valerio Santinelli",
+  "license": "ISC"
+}

@@ -10,6 +10,7 @@ load('../lib/text-operation.js');
 load('../lib/annotation-list.js');
 load('../lib/cursor.js');
 load('../lib/firebase-adapter.js');
+load('../lib/sharedb-adapter.js');
 load('../lib/rich-text-toolbar.js');
 load('../lib/wrapped-operation.js');
 load('../lib/undo-manager.js');
